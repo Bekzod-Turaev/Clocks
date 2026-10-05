@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+#num_1{
+    font-size: 50px;
+    font-weight: 700;
+    color: red;
+}
+
+#num_2{
+    font-size: 50px;
+    font-weight: 700;
+    color: dodgerblue;
+}
+
+#ravno{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+#all{
+    font-size: 50px;
+    font-weight: 700;
+    color: blueviolet;
+}
+
+
